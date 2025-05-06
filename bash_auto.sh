@@ -42,3 +42,6 @@ git push -u $REMOTE_NAME "$CURRENT_BRANCH"
 
 echo "Changes pushed to $REPO_URL on branch '$CURRENT_BRANCH' with message: '$COMMIT_MESSAGE'"
 
+# to run: ./bash_auto.sh https://github.com/Andrew14k/repo.git "Commit Message"
+
+
